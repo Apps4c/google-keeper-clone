@@ -5,7 +5,7 @@ if you want to download it and use it, please make sure to run npm i, because th
 
 these are pictures from the app:
 
-<img src="https://raw.githubusercontent.com/Apps4c/My_Card/main/assets/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20Max%20-%202023-05-03%20at%2010.15.28.png" alt="alt text" width="322.5"  height="699">
+<img src="https://github.com/Apps4c/google-keeper-clone/blob/main/Screenshot%202023-06-04%20at%208.56.40.png" alt="app img" width="800"  height="699">
 
 
 
